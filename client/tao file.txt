@@ -1,0 +1,8 @@
+npm init -y
+tao file server.js
+npm i express dotenv express-async-handler jsonwebtoken mongoose bcrypt  
+npm i -D nodemon
+
+thiet lap localhost o file server.js
+
+ket noi database mongo
