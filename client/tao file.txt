@@ -6,3 +6,8 @@ npm i -D nodemon
 thiet lap localhost o file server.js
 
 ket noi database mongo
+
+
+tao file config
+models: dung de luu cac bang
+controller
